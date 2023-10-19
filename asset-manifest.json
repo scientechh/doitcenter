@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/doitcenter/static/css/main.4135c03f.css",
+    "main.js": "/doitcenter/static/js/main.7417e9f3.js",
+    "static/js/787.4b2551f8.chunk.js": "/doitcenter/static/js/787.4b2551f8.chunk.js",
+    "static/media/frameVideo.png": "/doitcenter/static/media/frameVideo.f240634f971791895024.png",
+    "static/media/logo.svg": "/doitcenter/static/media/logo.915b018795c2294e94dd39450d3471f7.svg",
+    "static/media/black-logo.svg": "/doitcenter/static/media/black-logo.a116bbd4f3ba77d76fb06c077da5706b.svg",
+    "index.html": "/doitcenter/index.html",
+    "main.4135c03f.css.map": "/doitcenter/static/css/main.4135c03f.css.map",
+    "main.7417e9f3.js.map": "/doitcenter/static/js/main.7417e9f3.js.map",
+    "787.4b2551f8.chunk.js.map": "/doitcenter/static/js/787.4b2551f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4135c03f.css",
+    "static/js/main.7417e9f3.js"
+  ]
+}
